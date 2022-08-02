@@ -1,7 +1,7 @@
 # dice_flutter
 
 A new Flutter project.
-
+<br/>
 Screenshots:<br/>
 <p >
 <img width="250" src="https://user-images.githubusercontent.com/71442681/182360823-d93f2c97-b2ce-4bc5-99c8-85483174bea9.jpg">
