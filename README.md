@@ -2,32 +2,23 @@
 
 A new Flutter project.
 <br/>
-Screenshots:<br/>
+Screenshot before rolling the dice:<br/>
 <p >
-<img width="250" src="https://user-images.githubusercontent.com/71442681/182360823-d93f2c97-b2ce-4bc5-99c8-85483174bea9.jpg">
-</p>
+<img width="250" src="https://user-images.githubusercontent.com/71442681/182363185-fcc6d84d-0ae2-45d7-8084-08a869b6511e.jpg">
+</p><br/>
 
-<br/>
+Left dice rolled:<br/>
 <p >
-  <img width="250" src="https://user-images.githubusercontent.com/71442681/182360901-99788d26-2dd0-4b52-86d8-e04765adc625.jpg">
-</p>
+  <img width="250" src="https://user-images.githubusercontent.com/71442681/182363854-3b807528-6167-4d82-b981-a322d9d33fe1.jpg">
+</p><br/>
 
-<br/>
+Right dice rolled:<br/>
 <p>
-  <img width="250" src="https://user-images.githubusercontent.com/71442681/182361020-b737a33f-d384-4e2f-bca9-07c2b62002cc.jpg">
-</p>
+  <img width="250" src="https://user-images.githubusercontent.com/71442681/182363881-e23a0eda-d3e5-4d74-a46e-714594d35dc5.jpg">
+</p><br/>
 
-<br/>
-<p> <img width="250" src="https://user-images.githubusercontent.com/71442681/182361479-2bbd6c92-0139-4c83-ab2d-4f6ee5969343.jpg">
-</p>
+By pressing the bottom button, two dice are thrown at the same time:<br/>
+<p> <img width="250" src="https://user-images.githubusercontent.com/71442681/182363918-c10bc75f-0097-4bd7-8c9b-e72c0cf416b4.jpg">
+</p><br/>
 
-<br/>
-<p> <img width="250" src="https://user-images.githubusercontent.com/71442681/182361935-f5eb738e-03e0-40e6-af38-c1fe9482f1cf.png">
-</p>
-
-<br/>
-App icon:<br/>
-<p >
-  <img width="250" src="https://user-images.githubusercontent.com/71442681/182362104-669e0d66-c34e-4c07-a9de-9a1511d88ad6.png">
-</p>
 
