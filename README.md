@@ -27,5 +27,7 @@ Screenshots:<br/>
 
 <br/>
 App icon:<br/>
-![image](https://user-images.githubusercontent.com/71442681/182362104-669e0d66-c34e-4c07-a9de-9a1511d88ad6.png)
+<p >
+  <img width="250" src="https://user-images.githubusercontent.com/71442681/182362104-669e0d66-c34e-4c07-a9de-9a1511d88ad6.png">
+</p>
 
